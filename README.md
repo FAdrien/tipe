@@ -1,2 +1,4 @@
-# tipe
-My TIPE for the entrance oral examinations at the Grandes Écoles
+# TIPE
+This repository contains my TIPE (both the code, the report and a beamer presentation) I presented during the entrance oral exams of the Grandes Écoles (some prestigious French engineering schools).
+
+The code is essentially a full implementation from scratch in Python (with all necessary data structures, also implemented) of the Fortune's algorithm (see [Fortune's algorithm - Wikipedia](https://en.wikipedia.org/wiki/Fortune%27s_algorithm "Fortune's algorithm - Wikipedia")) to compute Voronoï diagrams. The implementation follows the rough pseudocode given in chapter 7 of the book [Computational Geometry, Algorithms and Applications - Third Edition](https://link.springer.com/book/10.1007/978-3-540-77974-2 "Computational Geometry, Algorithms and Applications - Third Edition") by Mark Berg, Otfried Cheong, Marc Kreveld, Mark Overmars.
